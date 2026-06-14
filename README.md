@@ -26,4 +26,4 @@ Recommendation systems are helpful because they save time and help users discove
 - team-plan.md: team roles and collaboration plan
 
 ## Final Video Link
-YouTube link will be added here after the final video is uploaded.
+[Watch the final video on YouTube](https://www.youtube.com/watch?v=XRTwlc2G_Hs)
