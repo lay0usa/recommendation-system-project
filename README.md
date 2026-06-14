@@ -8,6 +8,7 @@
 
 ## Topic Summary
 This project is about recommendation systems and how apps like Netflix, Spotify, and TikTok recommend content users may like.
+This project also explains the benefits and concerns of recommendation systems in modern software applications.
 
 Recommendation systems are important in software development because they use algorithms, data, machine learning, and user behavior to make apps more personal.
 
