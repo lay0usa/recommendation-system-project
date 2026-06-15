@@ -1,4 +1,4 @@
-# The Secret Behind Recommendation Systems
+ # The Secret Behind Recommendation Systems
 
 ## How Netflix, Spotify, and TikTok Recommend What You Like
 
@@ -26,6 +26,4 @@ Recommendation systems are helpful because they save time and help users discove
 - team-plan.md: team roles and collaboration plan
 
 ## Final Video Link
-https://www.youtube.com/watch?v=XRTwlc2G_Hs
-https://www.youtube.com/watch?v=XRtwIc2G_Hs
-
+[Watch the final video on YouTube](https://youtu.be/XRtwIc2G_Hs?si=IR2Kjp5eJ0vhzF88)
